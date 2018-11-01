@@ -1,0 +1,43 @@
+body{
+    font-family: 'KoHo', sans-serif;
+    background-color: rgba(117, 184, 223,0.5);
+}
+.perfil{
+    color: navy;
+}
+.hrperfil{
+    width: 80%;
+}
+.presentacion{
+    text-align: center;
+}
+.presentacion img{
+    width: 100px;
+}
+.colegio{
+    list-style-type: none;
+}
+.cursos{
+    list-style-type: square;
+}
+.estudios{
+    list-style-type: circle;
+}
+.formacion{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+div{
+    text-align: center;
+}
+.fcv a img{
+    width: 40px;
+    
+}
+
+
